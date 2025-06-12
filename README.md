@@ -16,3 +16,8 @@ A simple two-player **Tic Tac Toe** game implemented in Python.
 - Players take turns choosing a position (1–9) to place their marker.
 - The game checks after each move for a win or a tie.
 - After the game ends, players are prompted to play again.
+
+- 🧰 Tools Used
+
+- Language: Python 3
+- IDE: Jupyter Notebook
